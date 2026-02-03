@@ -6,31 +6,31 @@ This repository contains Object-Oriented Programming solutions for all Week-2 as
 
 | Question | File Path | Description |
 |----------|-----------|-------------|
-| 1. Buzz number checker | `src/BuzzChecker.java` | Checks if number is divisible by 7 or ends with 7 |
-| 2. Factorial of 12 | `src/FactorialCalculator.java` | Calculates factorial using loop iteration |
-| 3. Fibonacci series | `src/FibonacciGenerator.java` | Generates Fibonacci sequence up to n terms |
-| 4. Reverse a number | `src/NumberReverser.java` | Reverses digits of a number handling negatives |
-| 5. Admission processor | `src/AdmissionProcessor.java` | Processes student admissions based on marks criteria |
-| 6. Quadratic equation roots | `src/QuadraticSolver.java` | Finds real/complex roots using discriminant |
-| 7. Sum of natural numbers | `src/NaturalNumberSum.java` | Calculates sum using mathematical formula |
-| 8. Multiples of 10 | `src/MultiplesPrinter.java` | Prints multiples of 10 in given interval |
-| 9. Multiplication table | `src/MultiplicationTable.java` | Generates multiplication table for given number |
-| 10. HCF of two numbers | `src/HCFCalculator.java` | Finds HCF using Euclidean algorithm |
-| 11. LCM of two numbers | `src/LCMCalculator.java` | Calculates LCM using HCF formula |
-| 12. Count digits | `src/DigitCounter.java` | Counts digits in an integer |
-| 13. Exponential calculation | `src/ExponentialCalculator.java` | Calculates base^exponent using Math.pow |
-| 14. Palindrome checker | `src/PalindromeChecker.java` | Checks if number reads same forwards/backwards |
-| 15. Prime number checker | `src/PrimeChecker.java` | Optimized prime checking algorithm |
-| 16. Binary-Decimal converter | `src/NumberConverter.java` | Converts between binary and decimal systems |
-| 17. Median finder | `src/MedianFinder.java` | Finds median of array using sorting |
-| 18. Euler's number | `src/EulerCalculator.java` | Calculates e using factorial series |
-| 19. Combinations generator | `src/CombinationGenerator.java` | Generates all combinations of 1,2,3 |
-| 20. Multiple checker | `src/MultipleChecker.java` | Checks if m is multiple of n |
-| 21. Prime range finder | `src/PrimeRangeFinder.java` | Displays primes in given interval |
-| 22. Armstrong number | `src/ArmstrongChecker.java` | Checks Armstrong number property |
-| 23. Pattern 1 | `src/PatternPrinter1.java` | Prints sequential number pattern |
-| 24. Pattern 2 | `src/PatternPrinter2.java` | Prints symmetric number pattern |
-| 25. Pattern 3 | `src/PatternPrinter3.java` | Prints spaced number pattern |
+| 1. Buzz number checker | [src/BuzzChecker.java](src/BuzzChecker.java) | Checks if number is divisible by 7 or ends with 7 |
+| 2. Factorial of 12 | [src/FactorialCalculator.java](src/FactorialCalculator.java) | Calculates factorial using loop iteration |
+| 3. Fibonacci series | [src/FibonacciGenerator.java](src/FibonacciGenerator.java) | Generates Fibonacci sequence up to n terms |
+| 4. Reverse a number | [src/NumberReverser.java](src/NumberReverser.java) | Reverses digits of a number handling negatives |
+| 5. Admission processor | [src/AdmissionProcessor.java](src/AdmissionProcessor.java) | Processes student admissions based on marks criteria |
+| 6. Quadratic equation roots | [src/QuadraticSolver.java](src/QuadraticSolver.java) | Finds real/complex roots using discriminant |
+| 7. Sum of natural numbers | [src/NaturalNumberSum.java](src/NaturalNumberSum.java) | Calculates sum using mathematical formula |
+| 8. Multiples of 10 | [src/MultiplesPrinter.java](src/MultiplesPrinter.java) | Prints multiples of 10 in given interval |
+| 9. Multiplication table | [src/MultiplicationTable.java](src/MultiplicationTable.java) | Generates multiplication table for given number |
+| 10. HCF of two numbers | [src/HCFCalculator.java](src/HCFCalculator.java) | Finds HCF using Euclidean algorithm |
+| 11. LCM of two numbers | [src/LCMCalculator.java](src/LCMCalculator.java) | Calculates LCM using HCF formula |
+| 12. Count digits | [src/DigitCounter.java](src/DigitCounter.java) | Counts digits in an integer |
+| 13. Exponential calculation | [src/ExponentialCalculator.java](src/ExponentialCalculator.java) | Calculates base^exponent using Math.pow |
+| 14. Palindrome checker | [src/PalindromeChecker.java](src/PalindromeChecker.java) | Checks if number reads same forwards/backwards |
+| 15. Prime number checker | [src/PrimeChecker.java](src/PrimeChecker.java) | Optimized prime checking algorithm |
+| 16. Binary-Decimal converter | [src/NumberConverter.java](src/NumberConverter.java) | Converts between binary and decimal systems |
+| 17. Median finder | [src/MedianFinder.java](src/MedianFinder.java) | Finds median of array using sorting |
+| 18. Euler's number | [src/EulerCalculator.java](src/EulerCalculator.java) | Calculates e using factorial series |
+| 19. Combinations generator | [src/CombinationGenerator.java](src/CombinationGenerator.java) | Generates all combinations of 1,2,3 |
+| 20. Multiple checker | [src/MultipleChecker.java](src/MultipleChecker.java) | Checks if m is multiple of n |
+| 21. Prime range finder | [src/PrimeRangeFinder.java](src/PrimeRangeFinder.java) | Displays primes in given interval |
+| 22. Armstrong number | [src/ArmstrongChecker.java](src/ArmstrongChecker.java) | Checks Armstrong number property |
+| 23. Pattern 1 | [src/PatternPrinter1.java](src/PatternPrinter1.java) | Prints sequential number pattern |
+| 24. Pattern 2 | [src/PatternPrinter2.java](src/PatternPrinter2.java) | Prints symmetric number pattern |
+| 25. Pattern 3 | [src/PatternPrinter3.java](src/PatternPrinter3.java) | Prints spaced number pattern |
 
 ## OOP Concepts Used
 

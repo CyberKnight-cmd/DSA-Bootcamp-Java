@@ -6,18 +6,18 @@ This repository contains Object-Oriented Programming solutions for all Week-1 as
 
 | Question | File Path | Description |
 |----------|-----------|-------------|
-| 1. Print your name | `src/Person.java` | Uses Person class with constructor and getter method |
-| 2. Add two numbers | `src/Calculator.java` | Calculator class with add method |
-| 3-4. Temperature conversion | `src/TemperatureConverter.java` | Handles both Celsius↔Fahrenheit conversions |
-| 5. Rectangle area/perimeter | `src/Rectangle.java` | Rectangle class with area and perimeter calculations |
-| 6. Circle area/perimeter | `src/Circle.java` | Circle class with PI constant and calculation methods |
-| 7-8. Number properties | `src/NumberChecker.java` | Checks odd/even and positive/negative |
-| 9. Maximum of three numbers | `src/MaxFinder.java` | Finds maximum using Math.max() |
-| 10. Swap two numbers | `src/NumberSwapper.java` | Swaps numbers with before/after display |
-| 11. Miles to kilometers | `src/DistanceConverter.java` | Distance conversion with conversion factor |
-| 12. Leap year checker | `src/LeapYearChecker.java` | Leap year logic implementation |
-| 13. Grading system | `src/GradeCalculator.java` | Grade calculation based on percentage |
-| 14. Divisibility by 5 | `src/DivisibilityChecker.java` | Checks divisibility using modulo operator |
+| 1. Print your name | [src/Person.java](src/Person.java) | Uses Person class with constructor and getter method |
+| 2. Add two numbers | [src/Calculator.java](src/Calculator.java) | Calculator class with add method |
+| 3-4. Temperature conversion | [src/TemperatureConverter.java](src/TemperatureConverter.java) | Handles both Celsius↔Fahrenheit conversions |
+| 5. Rectangle area/perimeter | [src/Rectangle.java](src/Rectangle.java) | Rectangle class with area and perimeter calculations |
+| 6. Circle area/perimeter | [src/Circle.java](src/Circle.java) | Circle class with PI constant and calculation methods |
+| 7-8. Number properties | [src/NumberChecker.java](src/NumberChecker.java) | Checks odd/even and positive/negative |
+| 9. Maximum of three numbers | [src/MaxFinder.java](src/MaxFinder.java) | Finds maximum using Math.max() |
+| 10. Swap two numbers | [src/NumberSwapper.java](src/NumberSwapper.java) | Swaps numbers with before/after display |
+| 11. Miles to kilometers | [src/DistanceConverter.java](src/DistanceConverter.java) | Distance conversion with conversion factor |
+| 12. Leap year checker | [src/LeapYearChecker.java](src/LeapYearChecker.java) | Leap year logic implementation |
+| 13. Grading system | [src/GradeCalculator.java](src/GradeCalculator.java) | Grade calculation based on percentage |
+| 14. Divisibility by 5 | [src/DivisibilityChecker.java](src/DivisibilityChecker.java) | Checks divisibility using modulo operator |
 
 ## OOP Concepts Used
 
