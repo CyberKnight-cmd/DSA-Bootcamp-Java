@@ -1,0 +1,85 @@
+**Week 2**
+
+**Objective:** To understand the basic concepts of variable, decision and loop control statements.
+
+**Assignments:**
+
+1. Write a Java program to check whether a number is Buzz or not.
+
+2. Write a Java program to calculate factorial of 12.
+
+3. Write a Java program for Fibonacci series.
+
+4. Write a Java program to reverse a number.
+
+5. Admission to a professional course is subject to the following conditions:
+
+   * (a) Marks in Mathematics ≥ 60
+   * (b) Marks in Physics ≥ 50
+   * (c) Marks in Chemistry ≥ 40
+   * (d) Total in all 3 subjects ≥ 200
+     **OR**
+   * Total in Maths & Physics ≥ 150
+
+   Given the marks in the 3 subjects of *n* (user input) students, write a program to process the applications to list the eligible candidates.
+
+6. Write a Java program to find all roots of a quadratic equation.
+
+7. Write a Java program to calculate the sum of natural numbers up to a certain range.
+
+8. Write a Java program to print all multiples of 10 between a given interval.
+
+9. Write a Java program to generate multiplication table.
+
+10. Write a Java program to find HCF of two numbers.
+
+11. Write a Java program to find LCM of two numbers.
+
+12. Write a Java program to count the number of digits of an integer.
+
+13. Write a Java program to calculate the exponential of a number.
+
+14. Write a Java program to check whether a number is palindrome or not.
+
+15. Write a Java program to check whether a number is prime or not.
+
+16. Write a Java program to convert a Binary Number to Decimal and Decimal to Binary.
+
+17. Write a Java program to find median of a set of numbers.
+
+18. Write a program to compute the value of Euler’s number that is used as the base of natural logarithms. Use the following formula:
+
+e = 1 + 1/1! + 1/2! + 1/3! + …… + 1/n!
+
+19. Write a Java program to generate all combinations of 1, 2, or 3 using loop.
+20. Write a Java program to read two integer values *m* and *n* and to decide and print whether *m* is multiple of *n*.
+21. Write a Java program to display prime numbers between a given interval.
+22. Write a Java program to check whether a given number is Armstrong Number or not.
+
+**Write Java programs for the patterns given below (23–25):**
+
+**23.**
+
+```
+1
+2 3 4
+5 6 7 8 9
+```
+
+**24.**
+
+```
+1
+2 1 2
+3 2 1 2 3
+4 3 2 1 2 3 4
+```
+
+**25.**
+
+```
+1     1
+ 2   2
+  3 3
+   4
+```
